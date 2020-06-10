@@ -1,15 +1,7 @@
-# Test
+# Hello World!
 
-The source was updated on 2020-05-27 at 11:05.
+Last update 09:59 6/10/2020
 
-## Another Page
-
-Check out another page [here!](https://shoes01.github.io/test_post_one/)
-
-## Possibly a working "game"
+## Release 2 of Godot-game
 
 [Click here](https://shoes01.github.io/test_game/) for it.
-
-## Another possible "game"
-
-[Click here](https://shoes01.github.io/test_game_2/) for it.
